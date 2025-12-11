@@ -7,7 +7,7 @@ Project developed as part of the Introduction to Machine Learning and Artificial
 
 # Basic Information # 
 This project explores the use of YOLOv8n, a lightweight object detection model, to identify ceramic sherds in frames extracted from archaeological video recordings.
-All work—data preparation, annotation, training, and testing—was carried out locally on a standard computer.
+ All work, from data preparation and annotation to training and testing, was carried out locally on a standard computer.
 
 <img src=https://github.com/user-attachments/assets/06362797-25ff-44b5-9266-ce53b85c2f5f width="350">
 
