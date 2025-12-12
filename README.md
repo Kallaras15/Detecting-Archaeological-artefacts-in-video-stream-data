@@ -18,8 +18,8 @@ The directory contains the full project report, with detailed summaries of model
 To ensure that all functions run properly in your Python environment (in this case Spyder), make sure that the YOLOv8n library and the OpenCV library are properly installed.
 
 You may install these in any terminal or command prompt associated with your Python setup (e.g., system terminal, virtual environment, IDE terminal).
-YOLOv8n: Run the following command in Anaconda Prompt --> pip install ultralytics
-OpenCV: Run the following command in Anaconda Prompt -->  pip install opencv-python
+YOLOv8n: Run the following command --> pip install ultralytics
+OpenCV: Run the following command -->  pip install opencv-python
 
 
 Finally, verify that all file paths used in the scripts correctly point to your video files, datasets, and output directories.
