@@ -20,6 +20,7 @@ To ensure that all functions run properly in your Python environment (in this ca
 You may install these in any terminal or command prompt associated with your Python setup (e.g., system terminal, virtual environment, IDE terminal).
 
 YOLOv8n: Run the following command --> pip install ultralytics
+
 OpenCV: Run the following command -->  pip install opencv-python
 
 
